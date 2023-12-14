@@ -1,8 +1,10 @@
 # UCSD - Machine Learning Engineering Bootcamp
 Step 2 - Capstone Project (Data Collection)
 
-## Summary
-Spotify loves playlists. Playlists like Today’s Top Hits and RapCaviar have millions of loyal followers, while Discover Weekly and Daily Mix are just a couple of personalized playlists made especially to match unique musical tastes: The Digital Music Alliance, in their 2018 Annual Music Report, state that 54% of consumers say that playlists are replacing albums in their listening habits.
+## Capstone Topic: Musical Hit Success Prediction
+Spotify has become the dominant streaming platform for music entertainment on the internet today, as such it is important for a newly produced track to adhere to, or preferably exceed, current trends and expectations if it is to become the next hit single. In this manner, trends and preferences could be predicted in order to better position an artist's work for success, through the exploration of patterns and audio features of newer incumbents as compared to those of past successes.
+
+Playlists like Today’s Top Hits and RapCaviar have millions of loyal followers, while Discover Weekly and Daily Mix are just a couple of personalized playlists made especially to match unique musical tastes: The Digital Music Alliance, in their 2018 Annual Music Report, state that 54% of consumers say that playlists are replacing albums in their listening habits.
 
 
 ## Spotify Million Playlist Dataset (A dataset for music recommendation research)
